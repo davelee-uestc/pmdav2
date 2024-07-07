@@ -11,8 +11,8 @@ For this project, we used python 3.8.5. We recommend setting up a new virtual
 environment:
 
 ```shell
-python -m venv ~/venv/sscda
-source ~/venv/sscda/bin/activate
+python -m venv ~/venv/pmdav2
+source ~/venv/pmdav2/bin/activate
 ```
 
 In that environment, the requirements can be installed with:
